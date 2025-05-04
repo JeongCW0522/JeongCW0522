@@ -3,7 +3,11 @@
 </p>
 <br>
 
-<div align=center> !(https://github-readme-stats.vercel.app/api?username=JeongCW0522&show_icons=true)</div>
+<div align=center>
+    
+
+![NohGaSeong's github stats](https://github-readme-stats.vercel.app/api?username=NohGaSeong&show_icons=true)
+</div>
 
 
 <!--
