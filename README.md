@@ -3,6 +3,9 @@
 </p>
 <br>
 
+(https://github-readme-stats.vercel.app/api?username=JeongCW0522&show_icons=true)
+
+
 <!--
 **JeongCW0522/JeongCW0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
