@@ -6,7 +6,7 @@
 <div align=center>
     
 
-![JeongCW0522's github stats](https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars,contribs&count_private=true&show_icons=true&&theme=gruvbox_light)
+![JeongCW0522's github stats](https://github-readme-stats.vercel.app/api?username=JeongCW0522&count_private=true&show_icons=true&&theme=gruvbox_light)
 </div>
 
 
