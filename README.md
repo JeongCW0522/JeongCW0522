@@ -20,7 +20,7 @@
 <br>
 
 ## 🤝 Projects
-- 저장한 콘텐츠를 다시 꺼내보는 북마크 플랫폼 [INSIGHT BOX](https://github.com/Leets-Official/BOOKMARK-FE) `대상`
+- 저장한 콘텐츠를 다시 꺼내보는 북마크 플랫폼 [INSIGHT BOX](https://github.com/Leets-Official/BOOKMARK-FE) (2025.06 ~ 2025.08) `대상`
 
 <br><br>
 <div align = "center" />
