@@ -22,7 +22,8 @@
 ## 🤝 Projects
 - 저장한 콘텐츠를 다시 꺼내보는 북마크 플랫폼 [INSIGHT BOX](https://github.com/Leets-Official/BOOKMARK-FE) `대상`
 
-<br>
+<br><br>
+<div align = "center" />
 
 ![JeongCW0522's github stats](https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&&theme=radical)
 </div>
