@@ -25,3 +25,5 @@
 
 ![JeongCW0522's github stats](https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&&theme=radical)
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
