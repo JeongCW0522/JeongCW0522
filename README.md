@@ -23,7 +23,8 @@
 
 <br><br>
 
-![JeongCW0522's github stats](https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&&theme=radical)
-</div>
+![JeongCW0522's github stats](https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=material-palenight&line_height=30)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JeongCW0522&theme=material-palenight)](https://git.io/streak-stats)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
+</div>
