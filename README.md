@@ -25,4 +25,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=radical&line_height=28" height="180"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongCW0522&layout=compact&theme=dark)](https://github.com/JeongCW0522)
+
 </div>
