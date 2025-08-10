@@ -24,8 +24,10 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=material-palenight&line_height=28" height="165"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=radical&line_height=28" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeongCW0522&theme=radical&utcOffset=9" height="180"/>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=radical)
 
 </div>
