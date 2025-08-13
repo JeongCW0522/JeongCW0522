@@ -28,6 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongCW0522&theme=dracula&layout=compact" height="165"/>
 </p>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
 
 </div>
