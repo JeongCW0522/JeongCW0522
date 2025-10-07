@@ -16,6 +16,9 @@
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
 
+<img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />&nbsp;
+
 <br>
 
 ### 🤝 Projects
