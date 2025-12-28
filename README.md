@@ -27,7 +27,7 @@
 
 ### 🤝 Projects
 저장한 콘텐츠를 다시 꺼내보는 북마크 플랫폼 [INSIGHT BOX](https://github.com/Leets-Official/BOOKMARK-FE) (2025.06 ~ 2025.08) `대상`<br>
-의미있는 신호(SIGNAL)는 남기고, 불필요한 잡음(NOISE)은 줄이는 플랫폼 [SINO](https://github.com/UMC-SINO/SINO-Front) (2025.12) `우수상`
+의미있는 신호(SIGNAL)는 남기고, 불필요한 잡음(NOISE)은 줄이자 [SINO](https://github.com/UMC-SINO/SINO-Front) (2025.12) `우수상`
 
 <br><br>
 
@@ -36,7 +36,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongCW0522&theme=dracula&layout=compact" height="165"/>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark) 
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
+-->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
