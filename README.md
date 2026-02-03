@@ -36,8 +36,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=dracula&line_height=28" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongCW0522&theme=dracula&layout=compact" height="165"/>
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=dracula&line_height=28" height="165"/>
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=dracula&layout=compact" height="165"/>
 </p>
 
 <!--
