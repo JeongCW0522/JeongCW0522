@@ -8,6 +8,7 @@
 ### 🛠 Tech Skill
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -22,15 +23,26 @@
 
 <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 <img src="https://img.shields.io/badge/zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/jotai-6E6E6E?style=for-the-badge" />
 
-<br>
+<br><br>
 
-### 🤝 Projects
+### 🤝 Collaboration Tools
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br><br>
+
+### 💻 Projects
 | 프로젝트명 | 설명 | 기간 | 수상 |
 |-----------|------|------|------|
 | [**INSIGHT BOX**](https://github.com/Leets-Official/BOOKMARK-FE) | 저장한 콘텐츠를 다시 꺼내보는 북마크 플랫폼 | 2025.06 ~ 2025.08 | 대상 |
 | [**JobMate.AI**](https://github.com/JobMate-team/jobmate-frontend) | AI 기반 면접 코칭 플랫폼 | 2025.11 ~ 2025.12 | 최우수상 |
 | [**SINO**](https://github.com/UMC-SINO/SINO-Front) | 의미있는 신호(SIGNAL)는 남기고, 불필요한 잡음(NOISE)은 줄이자 | 2025.12 | 우수상 |
+| [**Nova**](https://github.com/NOVA-9th/nova-fe) | AI 기반 맞춤형 개발자 뉴스 피드 서비스 | 2025.12 ~ 2026.02 | |
 
 
 <br><br>
