@@ -45,6 +45,7 @@
 | [**JobMate.AI**](https://github.com/JobMate-team/jobmate-frontend) | AI 기반 면접 코칭 플랫폼 | 2025.11 ~ 2025.12 | 최우수상 |
 | [**SINO**](https://github.com/UMC-SINO/SINO-Front) | 한 해의 경험을 감정 기반으로 정리해주는 회고 서비스 | 2025.12 | 우수상 |
 | [**Nova**](https://github.com/NOVA-9th/nova-fe) | AI 기반 맞춤형 개발자 뉴스 피드 서비스 | 2025.12 ~ 2026.02 | |
+| [**SafeSign.AI**](https://github.com/SafeSignProject/safeSign-frontend) | AI 기반 계약서 보호 서비스 | 2026.3 ~ 2026.5 | |
 
 
 <br><br>
