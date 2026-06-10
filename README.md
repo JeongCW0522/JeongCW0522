@@ -59,6 +59,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
 -->
 
+<!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg?v=1" />
+</div>
 
 </div>
