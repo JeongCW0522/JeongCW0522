@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=150&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:70a5fd&height=200&section=header&text=Welcome&fontColor=ffffff&fontAlignY=35&fontSize=50" width="100%"/>
 
 <!--
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
@@ -14,8 +14,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=catppuccin_latte&line_height=28" height="165"/>
-  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=catppuccin_latte&layout=compact" height="165"/>
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=shadow_blue&line_height=28" height="180em" />
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=shadow_blue&layout=compact" height="180em" />
 </p>
 
 <br>
