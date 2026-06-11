@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,vue,html,css,js,ts,sass,tailwind,vitest" /> 
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,vue,html,css,js,ts,tailwind,vitest" /> 
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,mysql,prisma,docker" /> 
