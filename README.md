@@ -74,8 +74,3 @@
   <img src="https://raw.githubusercontent.com/JeongCW0522/JeongCW0522/output/pacman-contribution-graph-dark.svg?v=1" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JeongCW0522&label=Visitors&color=6366F1&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/JeongCW0522?label=Followers&style=flat-square&color=8B5CF6" />
-</p>
-
