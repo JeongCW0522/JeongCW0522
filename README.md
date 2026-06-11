@@ -1,44 +1,45 @@
-<div align = "center" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=130&section=header&text=&fontSize=0" width="100%"/>
-  
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=150&section=header&text=&fontSize=0" width="100%"/>
+
+<!--
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+-->
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<br>
+
+## 🐣 About Me
+안녕하세요! 사용자 경험을 중심으로 생각하는 **프론트엔드 개발자 정찬원**입니다.<br>
+**React**와 **Next.js**를 중심으로 웹 서비스를 개발하며, 단순히 보기 좋은 UI를 넘어 **편안하고 자연스러운 인터랙션**을 만드는 것을 목표로 합니다.
+
+**AI 도구**를 적극 활용해 학습과 개발 생산성을 높이고 있습니다. <br>
+최근에는 백엔드 영역까지 학습 범위를 확장하며 **풀스택 개발자**로의 성장을 목표로 하고 있습니다.
 
 <br>
   
-### 🛠 Tech Skill
+## 🛠 Tech Skill
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,vue,html,css,js,ts,sass,tailwind,vitest" /> 
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,mysql,prisma,docker" /> 
+
+### Deployments
+<img src="https://skillicons.dev/icons?i=aws,netlify,vercel" /> 
+
+### Collaboration Tools
+<img src="https://skillicons.dev/icons?i=git,github,discord,notion,figma" /> 
 
 <br>
 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-<br>
-
-<img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-<img src="https://img.shields.io/badge/zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
-<img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/jotai-6E6E6E?style=for-the-badge" />
-
-<br><br>
-
-### 🤝 Collaboration Tools
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-<br><br>
-
-### 💻 Projects
+## 💻 Projects
 | 프로젝트명 | 설명 | 기간 | 수상 |
 |-----------|------|------|------|
 | [**INSIGHT BOX**](https://github.com/Leets-Official/BOOKMARK-FE) | 저장한 콘텐츠를 다시 꺼내보는 북마크 플랫폼 | 2025.06 ~ 2025.08 | 대상 |
@@ -50,10 +51,12 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=dracula&line_height=28" height="165"/>
-  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=dracula&layout=compact" height="165"/>
+## Chanwon's Stats
+<p align="left">
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=catppuccin_latte&line_height=28" height="165"/>
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=catppuccin_latte&layout=compact" height="165"/>
 </p>
+
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
@@ -67,4 +70,3 @@
   <img src="https://raw.githubusercontent.com/JeongCW0522/JeongCW0522/output/pacman-contribution-graph-dark.svg?v=1" />
 </div>
 
-</div>
