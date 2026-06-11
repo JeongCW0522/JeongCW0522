@@ -33,7 +33,7 @@
 
 <br>
   
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,vue,html,css,js,ts,tailwind,vitest" /> 
