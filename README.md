@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:70a5fd&height=200&section=header&text=Welcome&fontColor=ffffff&fontAlignY=35&fontSize=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:70a5fd&height=180&section=header" width="100%"/>
 
 <!--
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=WELCOME!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 -->
 
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
