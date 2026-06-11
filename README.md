@@ -13,6 +13,13 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=catppuccin_latte&line_height=28" height="165"/>
+  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=catppuccin_latte&layout=compact" height="165"/>
+</p>
+
+<br>
+
 ## 🐣 About Me
 안녕하세요! 사용자 경험을 중심으로 생각하는 **프론트엔드 개발자 정찬원**입니다.<br>
 **React**와 **Next.js**를 중심으로 웹 서비스를 개발하며, 단순히 보기 좋은 UI를 넘어 **편안하고 자연스러운 인터랙션**을 만드는 것을 목표로 합니다.
@@ -22,7 +29,7 @@
 
 <br>
   
-## 🛠 Tech Skill
+## 🛠 Tech Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,vue,html,css,js,ts,sass,tailwind,vitest" /> 
@@ -49,14 +56,7 @@
 | [**SafeSign.AI**](https://github.com/SafeSignProject/safeSign-frontend) | AI 기반 계약서 보호 서비스 | 2026.3 ~ 2026.5 | |
 
 
-<br><br>
-
-## Chanwon's Stats
-<p align="left">
-  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api?username=JeongCW0522&hide=stars&count_private=true&show_icons=true&theme=catppuccin_latte&line_height=28" height="165"/>
-  <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=catppuccin_latte&layout=compact" height="165"/>
-</p>
-
+<br>
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
