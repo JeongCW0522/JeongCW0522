@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats-tau-fawn-47.vercel.app/api/top-langs/?username=JeongCW0522&theme=shadow_blue&layout=compact" height="180em" />
 </p>
 
-<br>
+---
 
 ## 🐣 About Me
 안녕하세요! 사용자 경험을 중심으로 생각하는 **프론트엔드 개발자 정찬원**입니다.<br>
@@ -60,8 +60,6 @@
 | [**SafeSign.AI**](https://github.com/SafeSignProject/safeSign-frontend) | AI 기반 계약서 보호 서비스 | 2026.3 ~ 2026.5 | |
 
 
-<br>
-
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
 -->
@@ -70,7 +68,14 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 -->
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeongCW0522/JeongCW0522/output/pacman-contribution-graph-dark.svg?v=1" />
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JeongCW0522&label=Visitors&color=6366F1&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/JeongCW0522?label=Followers&style=flat-square&color=8B5CF6" />
+</p>
 
