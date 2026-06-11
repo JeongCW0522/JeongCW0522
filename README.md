@@ -39,10 +39,10 @@
 <img src="https://skillicons.dev/icons?i=react,vite,nextjs,vue,html,css,js,ts,tailwind,vitest" /> 
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,mysql,prisma,docker" /> 
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,mysql,prisma" /> 
 
 ### Deployments
-<img src="https://skillicons.dev/icons?i=aws,netlify,vercel" /> 
+<img src="https://skillicons.dev/icons?i=aws,netlify,vercel,docker" /> 
 
 ### Collaboration Tools
 <img src="https://skillicons.dev/icons?i=git,github,discord,notion,figma" /> 
