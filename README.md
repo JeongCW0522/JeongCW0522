@@ -69,7 +69,7 @@
 | [**Nova**](https://github.com/NOVA-9th/nova-fe) | AI 기반 맞춤형 개발자 뉴스 피드 서비스 | 2025.12 ~ 2026.02 | |
 | [**SafeSign.AI**](https://github.com/SafeSignProject/safeSign-frontend) | AI 기반 계약서 보호 서비스 | 2026.3 ~ 2026.5 | |
 | [**IPillGood**](https://github.com/UMC-I-Pill-Good/IPillGood-client) | 나에게 맞는 영양제를 추천하고 관리하는 맞춤형 건강 서비스 | 2026.6 ~ 2026.8 | |
-| [**MarketBTI**](https://github.com/MarketBTI/MarketBTI-Frontend) | 예비 창업자를 위한 상권 위험을 유형 별로 진단해주는 창업 의사결정 지원 서비스 | 2026.8 ~ 2026.9 | |
+| [**MarketBTI**](https://github.com/MarketBTI/MarketBTI-Frontend) | 소비데이터 기반 상권별 위험 진단 및 창업 의사결정 지원 서비스 | 2026.8 ~ 2026.9 | |
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongCW0522&theme=nord_dark)
